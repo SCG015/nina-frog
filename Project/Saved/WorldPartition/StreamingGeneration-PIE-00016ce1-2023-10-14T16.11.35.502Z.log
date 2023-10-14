@@ -1,0 +1,120 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/Level4
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:11A492D841EDAF63EC4E9D84C7912C47 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:19AC280241B387DF3A72D9BB581C5E00 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725551871 Label:T_Level2_TileMap9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=538.000 Y=-125.000 Z=-190.000), Max=(X=1562.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2E696411454146FCF24D47B27F0B6233 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_A0595066C34362A101_1587621428 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-740.000 Y=-40.000 Z=158.000), Max=(X=-660.000 Y=40.000 Z=342.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2F0F9BDA403F7E9C6A8E209C7A16D885 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1786867874 Label:T_Level2_Terrain_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1432.000 Y=-25.000 Z=-448.000), Max=(X=3688.000 Y=25.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:30104A8E4EC80A3C59E663998ED2C893 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725551870 Label:T_Level2_TileMap8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-482.000 Y=-125.000 Z=-190.000), Max=(X=542.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3EA0918D478B2C61E79545A4B85B236E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:486BBE6C4C2D448CC49E4DB251392993 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1596007863 Label:T_Level2_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1502.000 Y=-125.000 Z=320.000), Max=(X=-478.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:68736534466D3E05605FC0AC4B47ABB1 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1665388865 Label:T_Level2_TileMap3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=538.000 Y=-125.000 Z=320.000), Max=(X=1562.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6D22A62246E07BF1BD2A2F9F7D7AC7A0 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:74F739A0491A4B3762B4679CFEB83EF2 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1688463868 Label:T_Level2_TileMap6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2588.000 Y=-125.000 Z=320.000), Max=(X=3612.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:76A3E9964B0CF53CE19BE9A50B385F30 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725552872 Label:T_Level2_TileMap10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1568.000 Y=-125.000 Z=-190.000), Max=(X=2592.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7915AF454FF9E747D2BFE38BD64475DD BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725548869 Label:T_Level2_TileMap7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1502.000 Y=-125.000 Z=-190.000), Max=(X=-478.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:811413D9470686DCD1DED6AE45C01525 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:89D94BFE43A27C35DCCFCE9239C809D0 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725552873 Label:T_Level2_TileMap11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2588.000 Y=-125.000 Z=-190.000), Max=(X=3612.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9E0612314D188C6D539C2AA3C4B0B1F1 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1677762867 Label:T_Level2_TileMap5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1568.000 Y=-125.000 Z=320.000), Max=(X=2592.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C32FAF31447EC014F4CF6894423DE63C BaseClass:/Game/Blueprints/Interactives/BP_InteractiveEndGoal.BP_InteractiveEndGoal_C NativeClass:/Script/Engine.Actor Name:BP_InteractiveEndGoal_C_UAID_047C164F758873A901_1334185868 Label:BP_InteractiveEndGoal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1172.000 Y=-32.000 Z=182.000), Max=(X=1227.500 Y=32.000 Z=278.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C7D79EF643A94FBDA4D24CAB28B3C516 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1656855864 Label:T_Level2_TileMap2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-482.000 Y=-125.000 Z=320.000), Max=(X=542.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CF7655944F573236B36E9FB4992947CF BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1674124866 Label:T_Level2_TileMap4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1568.000 Y=-125.000 Z=320.000), Max=(X=2592.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E5B813C54AA43B19AB5DD5854746C0B0 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E84FA6234C9872B18389EEA68ECE4681 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:F280609B4A89934440709381E27E27A2 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:FD4D7E334BE1D374981591B7E699E7AD BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:74F739A0491A4B3762B4679CFEB83EF2 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1688463868 Label:T_Level2_TileMap6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2588.000 Y=-125.000 Z=320.000), Max=(X=3612.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:68736534466D3E05605FC0AC4B47ABB1 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1665388865 Label:T_Level2_TileMap3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=538.000 Y=-125.000 Z=320.000), Max=(X=1562.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:11A492D841EDAF63EC4E9D84C7912C47 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:CF7655944F573236B36E9FB4992947CF BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1674124866 Label:T_Level2_TileMap4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1568.000 Y=-125.000 Z=320.000), Max=(X=2592.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:3EA0918D478B2C61E79545A4B85B236E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:486BBE6C4C2D448CC49E4DB251392993 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1596007863 Label:T_Level2_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1502.000 Y=-125.000 Z=320.000), Max=(X=-478.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:E5B813C54AA43B19AB5DD5854746C0B0 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:F280609B4A89934440709381E27E27A2 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:30104A8E4EC80A3C59E663998ED2C893 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725551870 Label:T_Level2_TileMap8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-482.000 Y=-125.000 Z=-190.000), Max=(X=542.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:2E696411454146FCF24D47B27F0B6233 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_A0595066C34362A101_1587621428 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-740.000 Y=-40.000 Z=158.000), Max=(X=-660.000 Y=40.000 Z=342.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:2F0F9BDA403F7E9C6A8E209C7A16D885 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1786867874 Label:T_Level2_Terrain_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1432.000 Y=-25.000 Z=-448.000), Max=(X=3688.000 Y=25.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:9E0612314D188C6D539C2AA3C4B0B1F1 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1677762867 Label:T_Level2_TileMap5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1568.000 Y=-125.000 Z=320.000), Max=(X=2592.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:7915AF454FF9E747D2BFE38BD64475DD BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725548869 Label:T_Level2_TileMap7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1502.000 Y=-125.000 Z=-190.000), Max=(X=-478.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:89D94BFE43A27C35DCCFCE9239C809D0 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725552873 Label:T_Level2_TileMap11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2588.000 Y=-125.000 Z=-190.000), Max=(X=3612.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:FD4D7E334BE1D374981591B7E699E7AD BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:811413D9470686DCD1DED6AE45C01525 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:6D22A62246E07BF1BD2A2F9F7D7AC7A0 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:C32FAF31447EC014F4CF6894423DE63C BaseClass:/Game/Blueprints/Interactives/BP_InteractiveEndGoal.BP_InteractiveEndGoal_C NativeClass:/Script/Engine.Actor Name:BP_InteractiveEndGoal_C_UAID_047C164F758873A901_1334185868 Label:BP_InteractiveEndGoal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1172.000 Y=-32.000 Z=182.000), Max=(X=1227.500 Y=32.000 Z=278.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:E84FA6234C9872B18389EEA68ECE4681 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:19AC280241B387DF3A72D9BB581C5E00 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725551871 Label:T_Level2_TileMap9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=538.000 Y=-125.000 Z=-190.000), Max=(X=1562.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:C7D79EF643A94FBDA4D24CAB28B3C516 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1656855864 Label:T_Level2_TileMap2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-482.000 Y=-125.000 Z=320.000), Max=(X=542.000 Y=-75.000 Z=832.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:76A3E9964B0CF53CE19BE9A50B385F30 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_047C164F758873A901_1725552872 Label:T_Level2_TileMap10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1568.000 Y=-125.000 Z=-190.000), Max=(X=2592.000 Y=-75.000 Z=322.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1502.000 Y=-125.000 Z=-448.000), Max=(X=3688.000 Y=32.000 Z=832.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/Level4
+----------------------------------------------------------------------------------------------------------------
+Level4 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 19 
+
+----------------------------------------------------------------------------------------------------------------
+Level4 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-1502.000 Y=-125.000 Z=-448.000), Max=(X=3688.000 Y=32.000 Z=832.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    2 | Cell Size   25600 | Actor Count    9 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y-1
+ |   |- Actor Count: 7
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1688463868
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/9/3X/NPIY58NQ1N2WVR5SB620QL
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1665388865
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/9/AI/DP7X0MBZX9F6M94SYBF8OL
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1674124866
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/9/JQ/ZDPS46XER2VWNCYHP2H2FO
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1677762867
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/3/OI/0DMRFFSAPKBE75AY667HMS
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1725552873
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/E/VT/GOOFLSUXFILCQ03YS19NAB
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1725551871
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/B/J5/5AO6GTRQQYSF1FGWW4DO3Y
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1725552872
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/5/LU/IBNL9KNBLR6MTZFVEQZMXS
+ |- [+] Content of Cell MainGrid_L0_X-1_Y-1
+ |   |- Actor Count: 2
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1596007863
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/0/61/BW3ZQ91ES5U8QAHF4JVIJU
+ |   |- Actor Path: /Game/Levels/UEDPIE_0_Level4.Level4:PersistentLevel.PaperTileMapActor_UAID_047C164F758873A901_1725548869
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/Level4/3/RQ/B3VLGZ5M74JDGXDMBV3KO4
+[+] Content of Grid Level 1
+
