@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Scratch/frm001/GitHub/Project/Content/Blueprints/Interactives/BP_CollectableFrog.uasset",
 				"C:/Users/Fraser/Documents/GitHub/nina-frog/Project/Content/Blueprints/Interactives/BP_DeathWallTrigger.uasset",
 				"C:/Users/Fraser/Documents/GitHub/nina-frog/Project/Content/Blueprints/Enemies/BP_DeathWall.uasset",
 				"C:/Users/Fraser/Documents/GitHub/nina-frog/Project/Content/Blueprints/Interactives/BP_InteractiveMine.uasset",
