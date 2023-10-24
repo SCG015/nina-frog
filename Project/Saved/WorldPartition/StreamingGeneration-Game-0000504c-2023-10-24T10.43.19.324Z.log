@@ -1,0 +1,97 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/MainMenu/MainMenu
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:1935014A4721B5A5494EE4AA6F402701 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_A0595066C34345A601_1414760601 Label:T_Sky_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1750.000 Y=-112.000 Z=-96.000), Max=(X=4650.000 Y=-108.000 Z=480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1B945F2D441E20DBE17559910E67453A BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_18C04DA32790E4A801_1237792695 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-75.000 Y=900.000 Z=160.000), Max=(X=-75.000 Y=900.000 Z=160.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1D57F7BD4FC6862A34BAE18F8A32E894 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:219B0ACC4DE4D1278EAA4DAB8020FB41 BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_1995390997 Label:FB_Bat2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=478.000 Y=1.500 Z=338.000), Max=(X=662.000 Y=2.500 Z=442.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:26954ADB4A588D4D0E035291D7C07CD2 BaseClass:/Game/Levels/MainMenu/MainMenuCharacter.MainMenuCharacter_C NativeClass:/Script/Paper2D.PaperFlipbookActor Name:MainMenuCharacter_C_UAID_047C164F758871A901_1709281514 Label:MainMenuCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-379.000 Y=-0.500 Z=-184.000), Max=(X=-286.000 Y=0.500 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:48791EE047E0FE7CC7910D9A275C3E73 BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_2028531999 Label:Mask_Idle2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-759.000 Y=1.500 Z=-54.000), Max=(X=-654.000 Y=2.500 Z=66.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:71254BD944D5F87BF4C646BD9217626A BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_2005915998 Label:Mask_Idle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=434.000 Y=1.500 Z=6.000), Max=(X=539.000 Y=2.500 Z=126.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:98177B45413D2935157B66A9052F8142 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_18C04DA32790E0A801_1635310993 Label:T_MainMenu_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1032.000 Y=-24.000 Z=-372.000), Max=(X=888.000 Y=26.000 Z=652.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AF158E754EAC7D546B0A04BC93A628A9 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B2BCBB2B4839A2430F75249352B2DD23 BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_1932229995 Label:FB_Bat SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-982.000 Y=1.500 Z=188.000), Max=(X=-798.000 Y=2.500 Z=292.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D9917A8946CCE772CAE5ADB5C3541783 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_047C164F758871A901_1563349512 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-115.000 Y=860.000 Z=68.000), Max=(X=-35.000 Y=940.000 Z=252.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DFB289B24DACC6BD74F21CB8D14240C8 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-60.000 Z=0.000), Max=(X=0.000 Y=-60.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E63A2C084C9DBA99668386A140D0F9F1 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-70.000 Z=0.000), Max=(X=0.000 Y=-70.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:EBE9D25B43E13DC5ED878C95149D5327 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-70.000 Z=0.000), Max=(X=0.000 Y=-70.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:F1CF8E74401BA0EDAA40C3930651AFAC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:F7AB408444E40B7A4E5CB88FAC409BB9 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:FB5029AD41D6F8DAA0D4D69D9DE70A20 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:F7AB408444E40B7A4E5CB88FAC409BB9 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:AF158E754EAC7D546B0A04BC93A628A9 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1B945F2D441E20DBE17559910E67453A BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_18C04DA32790E4A801_1237792695 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-75.000 Y=900.000 Z=160.000), Max=(X=-75.000 Y=900.000 Z=160.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1935014A4721B5A5494EE4AA6F402701 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_A0595066C34345A601_1414760601 Label:T_Sky_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1750.000 Y=-112.000 Z=-96.000), Max=(X=4650.000 Y=-108.000 Z=480.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:F1CF8E74401BA0EDAA40C3930651AFAC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:219B0ACC4DE4D1278EAA4DAB8020FB41 BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_1995390997 Label:FB_Bat2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=478.000 Y=1.500 Z=338.000), Max=(X=662.000 Y=2.500 Z=442.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:EBE9D25B43E13DC5ED878C95149D5327 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-70.000 Z=0.000), Max=(X=0.000 Y=-70.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1D57F7BD4FC6862A34BAE18F8A32E894 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:71254BD944D5F87BF4C646BD9217626A BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_2005915998 Label:Mask_Idle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=434.000 Y=1.500 Z=6.000), Max=(X=539.000 Y=2.500 Z=126.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:48791EE047E0FE7CC7910D9A275C3E73 BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_2028531999 Label:Mask_Idle2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-759.000 Y=1.500 Z=-54.000), Max=(X=-654.000 Y=2.500 Z=66.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:26954ADB4A588D4D0E035291D7C07CD2 BaseClass:/Game/Levels/MainMenu/MainMenuCharacter.MainMenuCharacter_C NativeClass:/Script/Paper2D.PaperFlipbookActor Name:MainMenuCharacter_C_UAID_047C164F758871A901_1709281514 Label:MainMenuCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-379.000 Y=-0.500 Z=-184.000), Max=(X=-286.000 Y=0.500 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:B2BCBB2B4839A2430F75249352B2DD23 BaseClass: NativeClass:/Script/Paper2D.PaperFlipbookActor Name:PaperFlipbookActor_UAID_18C04DA32790E0A801_1932229995 Label:FB_Bat SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-982.000 Y=1.500 Z=188.000), Max=(X=-798.000 Y=2.500 Z=292.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:E63A2C084C9DBA99668386A140D0F9F1 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-70.000 Z=0.000), Max=(X=0.000 Y=-70.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:FB5029AD41D6F8DAA0D4D69D9DE70A20 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:98177B45413D2935157B66A9052F8142 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_18C04DA32790E0A801_1635310993 Label:T_MainMenu_TileMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1032.000 Y=-24.000 Z=-372.000), Max=(X=888.000 Y=26.000 Z=652.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:DFB289B24DACC6BD74F21CB8D14240C8 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=-60.000 Z=0.000), Max=(X=0.000 Y=-60.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:D9917A8946CCE772CAE5ADB5C3541783 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_047C164F758871A901_1563349512 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-115.000 Y=860.000 Z=68.000), Max=(X=-35.000 Y=940.000 Z=252.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1750.000 Y=-112.000 Z=-372.000), Max=(X=4650.000 Y=900.000 Z=652.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/MainMenu/MainMenu
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 19 
+
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-1750.000 Y=-112.000 Z=-372.000), Max=(X=4650.000 Y=900.000 Z=652.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    2 | Cell Size   25600 | Actor Count    5 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X-1_Y0
+ |   |- Actor Count: 3
+ |   |- Actor Path: /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.CameraActor_UAID_18C04DA32790E4A801_1237792695
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/MainMenu/MainMenu/1/VI/K30LT45G5ZARP6H4LUFHBZ
+ |   |- Actor Path: /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.PaperFlipbookActor_UAID_18C04DA32790E0A801_2028531999
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/MainMenu/MainMenu/9/9T/KXQFIJTTWUDUQSPLPK0A2D
+ |   |- Actor Path: /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.PaperFlipbookActor_UAID_18C04DA32790E0A801_1932229995
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/MainMenu/MainMenu/B/QN/0A0WZ3TRUOJK81H33HI5YA
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 2
+ |   |- Actor Path: /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.PaperFlipbookActor_UAID_18C04DA32790E0A801_1995390997
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/MainMenu/MainMenu/4/6I/7BAS9K7280F4ZXW78T34PF
+ |   |- Actor Path: /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.PaperFlipbookActor_UAID_18C04DA32790E0A801_2005915998
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/MainMenu/MainMenu/8/YB/1L7XJJC45H5E0JCVQ9K6SN
+[+] Content of Grid Level 1
+
